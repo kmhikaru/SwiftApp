@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftTR/AppDelegate.swift"
+            timestampString = "508333407.603115"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftTR.AppDelegate.__deallocating_deinit"
+                  moduleName = "swiftTR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hikaru/Google_Drive_research/udemy/swift-app/swiftTR/swiftTR/AppDelegate.swift"
+                  timestampString = "508333407.64591"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftTR.AppDelegate.init () -&gt; swiftTR.AppDelegate"
+                  moduleName = "swiftTR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hikaru/Google_Drive_research/udemy/swift-app/swiftTR/swiftTR/AppDelegate.swift"
+                  timestampString = "508333407.658005"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftTR.AppDelegate.__allocating_init () -&gt; swiftTR.AppDelegate"
+                  moduleName = "swiftTR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hikaru/Google_Drive_research/udemy/swift-app/swiftTR/swiftTR/AppDelegate.swift"
+                  timestampString = "508333407.659388"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "swiftTR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hikaru/Google_Drive_research/udemy/swift-app/swiftTR/swiftTR/AppDelegate.swift"
+                  timestampString = "508333407.660481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
